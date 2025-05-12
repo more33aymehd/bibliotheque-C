@@ -1,6 +1,37 @@
 
-# bibliotheque-c
 
+# bibliotheque-c
+projet de Gestion d’une Bibliothèque
+🔹 Titre du projet :
+Système de Gestion Intelligente d’une Bibliothèque
+
+🔹 Description professionnelle :
+Le projet consiste à concevoir et développer une application de gestion numérique d’une bibliothèque, destinée à faciliter la gestion des livres, des usagers et des emprunts. Cette solution vise à moderniser les opérations traditionnelles de prêt, de retour et de catalogage des ouvrages afin d’optimiser l’accès à l’information et de renforcer l’efficacité du personnel bibliothécaire.
+
+L’application permettra :
+
+L’enregistrement des livres avec leurs caractéristiques (titre, auteur, ISBN, catégorie, etc.).
+
+La gestion des utilisateurs (étudiants, enseignants, visiteurs).
+
+Le suivi des emprunts et retours avec gestion des dates limites.
+
+La génération de rapports sur les activités de la bibliothèque.
+
+La consultation du catalogue en temps réel par les usagers.
+
+Ce projet est conçu dans le cadre de notre apprentissage des outils de développement collaboratif, notamment Git et GitHub, afin d’assurer une bonne coordination du travail en équipe, le suivi de l’évolution du code et une intégration continue des contributions de chaque membre.
+
+🔹 Technologies utilisées :
+Langages : HTML, CSS, JavaScript, PHP
+
+Base de données : MySQL ou PostgreSQL
+
+Outils de gestion de version : Git, GitHub
+
+Environnement : Visual Studio Code, XAMPP
+
+🔹 Équipe du projet :
 
 MEMBRES DU GROUPE 4 :
  
